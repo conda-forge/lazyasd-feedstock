@@ -23,13 +23,13 @@ requirements:
     - python
 
 test:
+  source_files:
+    - tests
   imports:
     - lazyasd
   requires:
     - pytest
   commands:
-    - cd $SRC_DIR   # [unix]
-    - cd %SRC_DIR%  # [win]
     - py.test
 
 about:
