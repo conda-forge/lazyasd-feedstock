@@ -1,5 +1,5 @@
-{% set version = "0.1.3" %}
-{% set sha256 = "44ba572d82f8a70328087478e41f9f4fcebce6ed272aa07e958087381dbed9da" %}
+{% set version = "0.1.4" %}
+{% set sha256 = "2f191432d32b05d52f546d873c43278d2d87a06af54dda388ce9deeb879150bf" %}
 
 package:
   name: lazyasd
