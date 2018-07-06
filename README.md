@@ -19,14 +19,15 @@ state and the second is to import expensive modules in a background thread.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/lazyasd-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/lazyasd-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/lazyasd-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/lazyasd-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/lazyasd-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/lazyasd-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/lazyasd-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/lazyasd-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/lazyasd/badges/version.svg)](https://anaconda.org/conda-forge/lazyasd)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/lazyasd/badges/downloads.svg)](https://anaconda.org/conda-forge/lazyasd)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-lazyasd-green.svg)](https://anaconda.org/conda-forge/lazyasd) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/lazyasd.svg)](https://anaconda.org/conda-forge/lazyasd) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/lazyasd.svg)](https://anaconda.org/conda-forge/lazyasd) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/lazyasd.svg)](https://anaconda.org/conda-forge/lazyasd) |
 
 Installing lazyasd
 ==================
